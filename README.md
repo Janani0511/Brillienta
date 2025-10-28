@@ -85,3 +85,8 @@ Every obstacle, from mismatched spacing to invisible carousel icons, became an o
 Through this, I discovered how patience, experimentation, and design thinking come together to create something meaningful.
 
 “Brillienta stands as a digital space where every student shines — because true learning begins with curiosity and ends with brilliance.” 🌻
+
+
+Github: 
+
+Netlify:https://brillienta.netlify.app/
