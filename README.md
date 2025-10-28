@@ -87,6 +87,6 @@ Through this, I discovered how patience, experimentation, and design thinking co
 “Brillienta stands as a digital space where every student shines — because true learning begins with curiosity and ends with brilliance.” 🌻
 
 
-Github: 
+Github: https://github.com/Janani0511/Brillienta.git
 
 Netlify:https://brillienta.netlify.app/
