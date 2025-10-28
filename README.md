@@ -1,5 +1,6 @@
-🌍 Overview
+🌟 Brillienta — Brilliance in Every Student
 
+🌍 Overview
 Brillienta is an educational website built to showcase the brilliance in every student.
 It’s designed with simplicity, creativity, and elegance using Bootstrap 5, emphasizing both learning and inspiration.
 
